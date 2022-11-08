@@ -1,3 +1,3 @@
 ## A simple Carousel 
 ### Hosted on github pages
-### URL: 
+### URL: https://mercyobasi.github.io/Caurosel/
